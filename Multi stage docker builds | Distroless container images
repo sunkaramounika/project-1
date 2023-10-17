@@ -1,0 +1,12 @@
+######Docker
+Create instance with ubuntu and install docker
+or
+install docker desktop with out creating instance in cloud
+######install docker with creating instance in AWS with ubuntu
+connect to the instance
+sudo apt uodate -y  ##update the packages
+sudo apt install docker.io -y
+#######docker should be installed by root user only 
+#####docker demon also execute with root user only it was one of the docker drawback
+###docker it is monolithic process
+######u can create a application python,java or golang
